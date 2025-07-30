@@ -42,7 +42,7 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YiBbz/YiBbz/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YiBbz/YiBbz/output/github-contribution-grid-snake-ocean.svg" />
 </div>
 
 <br/><hr/><br/>
@@ -54,7 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340" />   
 <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiBbz&theme=nightowl" alt="GitHub Streak" /></a>
-    <img https://github-readme-stats.vercel.app/api/wakatime?username=YiBbz />
+    
 </div>
  
 
