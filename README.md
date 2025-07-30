@@ -5,6 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl)
 
+![snake gif](https://github.com/YiBbz/YiBbz/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **YiBbz/YiBbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
