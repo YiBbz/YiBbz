@@ -1,12 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm YiBbz
+
+Welcome to my GitHub profile!
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl)
+![YiBbz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=radical)
+
+---
+
+## 🐍 Snake Game Contribution Graph
 
 ![snake gif](https://github.com/YiBbz/YiBbz/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 
 <!--
