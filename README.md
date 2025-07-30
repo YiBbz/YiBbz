@@ -50,10 +50,10 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="YiBbz's GitHub Stats" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="YiBbz's GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340" />
     <br>
-    <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=YiBbz)](https://git.io/streak-stats)" alt="streak stats"/>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiBbz" alt="GitHub Streak" /></a>
 </div>
  
 
