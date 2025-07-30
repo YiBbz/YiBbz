@@ -53,7 +53,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="YiBbz's GitHub Stats" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340"/>
     <br>
-    <img width=390 src="https://streak-stats.demolab.com/?user=YiBbz&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
+    <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=YiBbz)](https://git.io/streak-stats)" alt="streak stats"/>
 </div>
  
 
