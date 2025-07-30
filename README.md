@@ -49,13 +49,17 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<div align="center">
-  <!--<img width=390 src="https://streak-stats.demolab.com/?user=YiBbz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="YiBbz's GitHub Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="340"/>
+    </td>
+  </tr>
+</table>
+<!--<img width=390 src="https://streak-stats.demolab.com/?user=YiBbz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
 <br/><br/>
 <hr/>
 <br/>
