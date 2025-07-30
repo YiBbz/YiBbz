@@ -54,6 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340" />   
 <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiBbz&theme=nightowl" alt="GitHub Streak" /></a>
+    <img https://github-readme-stats.vercel.app/api/wakatime?username=YiBbz />
 </div>
  
 
