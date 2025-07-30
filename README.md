@@ -3,6 +3,9 @@
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=nightowl)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl)
+
+
 <!--
 **YiBbz/YiBbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
