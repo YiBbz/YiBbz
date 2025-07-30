@@ -1,19 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YiBbz.YiBbz&format=true"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=280137&duration=4000&lines=Hi+There!+👋;+I'm+Tshepiso+Rammala!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=9D00FF&duration=4000&lines=Hi+There!+👋;+I'm+Tshepiso+Rammala!;" />
 </h1>
 
-<h3 align="center">I'm a curious coder exploring full-stack development</h3>
+<h3 align="center">I'm a curious programer who loves problem solving</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently learning Full Stack Web Development on my own journey.  
-🌱 I’m focused on JavaScript, Bun, and backend APIs.  
-💬 Ask me about GitHub Actions or open source stuff!  
-⚡ Fun fact: I love music
+🔭 I’m currently a Junior Software Developer looking to break into the industry and showcase my talent.  
+🌱 I’m focused on Cloud Computing, Data Science and networks.  
+💬 Ask me about setting up homelabs.  
+⚡ Fun fact: I love using synonyms for popular words
 
 </div>
 
@@ -63,7 +63,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=280137&duration=4000&lines=Thank+You!;For+Visiting+My+Profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=9D00FF&duration=4000&lines=Thank+You!;For+Visiting+My+Profile!;" />
 </h1>
 
 <br/>
