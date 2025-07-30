@@ -51,11 +51,9 @@
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=YiBbz&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="YiBbz's GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340" />   
+<br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiBbz&theme=nightowl" alt="GitHub Streak" /></a>
-    <br>
-    
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiBbz&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" width="340" />
 </div>
  
 
