@@ -14,7 +14,8 @@ Welcome to my GitHub profile!
 
 ## 🐍 Snake Game Contribution Graph
 
-![snake ocean](https://github.com/YiBbz/YiBbz/blob/output/github-contribution-grid-snake-ocean.gif)
+![snake svg](https://github.com/YiBbz/YiBbz/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ---
