@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=9D00FF&duration=4000&lines=Hello+👋;+I'm+Tshepiso+Rammala!;+A+Software+Developer;" />
 </h1>
 
-<h3 align="center">I'm a lover of computer architecture</h3>
+<h3 align="center">I'm a lover of computers</h3>
 
 <br/>
 
 <div align="center">
 
 🔭 I’m currently a Junior Software Developer looking to break into the industry and showcase my talent.  
-🌱 I’m focused on Cloud Computing, Data Science and networks.  
+🌱 I’m focused on Software Development, Cloud Computing, Data Science and building networks.  
 💬 Ask me about setting up homelabs.  
 ⚡ Fun fact: I love using synonyms for popular words
 
